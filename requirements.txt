@@ -10,6 +10,7 @@ python-dotenv==0.21.1
 # Runtime dependencies
 gunicorn==20.1.0
 honcho==1.1.0
+Flask-Talisman==1.0.0
 
 # Code quality
 pylint==2.15.10
